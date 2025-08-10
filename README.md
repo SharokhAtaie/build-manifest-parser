@@ -2,8 +2,7 @@
 
 A sleek React + Vite + Tailwind web app to parse Next.js `_buildManifest.js`, list all discovered routes, and copy related JS/CSS assets.
 
-- **Live demo**: [Build Manifest Parser](https://sharokhataie.github.io/build-manifest-parser/)
-- **Deploy status**: ![Deploy](https://github.com/SharokhAtaie/build-manifest-parser/actions/workflows/deploy.yml/badge.svg)
+**Live demo**: [Build Manifest Parser](https://sharokhataie.github.io/build-manifest-parser/)
 
 ### Screenshot
 
